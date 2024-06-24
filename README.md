@@ -1,2 +1,2 @@
 # Stroke Prediction
- Comparison of various Models and Interpretation using LIME and SHAP kernels
+ Comparison of Various Computational Models and Interpretation using LIME and SHAP kernels
